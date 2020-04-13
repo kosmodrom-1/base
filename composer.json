@@ -1,0 +1,7 @@
+{
+    "name": "kosmodrom-1/base",
+    "description": "A base speedup development stack for Laravel Backpack 4 and Bootstrap 4",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
